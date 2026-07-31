@@ -40,7 +40,7 @@ Tips: good lighting, palm facing the camera, and keep your hand clearly in frame
 ## Project layout
 
 ```
-hand-gesures/
+hand-gestures/
 ├── hand_gesture.py      # Desktop OpenCV app
 ├── requirements.txt
 ├── web/
