@@ -5,7 +5,7 @@ Works in the browser and as a local Python app.
 
 ## Try it live
 
-**[https://hand-gesture-playground.netlify.app/](https://hand-gesture-playground.netlify.app/)**
+**[https://hand-gestures-playground.netlify.app/](https://hand-gestures-playground.netlify.app/)**
 
 1. Open the link  
 2. Click **Start camera** and allow access  
